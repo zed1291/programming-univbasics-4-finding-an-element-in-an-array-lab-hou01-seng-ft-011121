@@ -4,5 +4,5 @@ def find_element_index(array, value_to_find)
     array[count] == value_to_find
     count += 1
   end
-  return count
+  count
 end
